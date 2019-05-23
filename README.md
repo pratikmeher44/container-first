@@ -1,7 +1,7 @@
 # Container First
 
 Sample to execute an application in a container. This is a basic example to understand the following.
-* Write a docker file with some commonly used instructions.
+* Write a docker file.
 * Build a docker image.
 * Run a container using the docker image.
 
